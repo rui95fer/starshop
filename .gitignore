@@ -16,3 +16,7 @@
 ###< php-cs-fixer/shim ###
 
 templates/main/homepage.html.twig~
+###> symfony/asset-mapper ###
+/public/assets/
+/assets/vendor/
+###< symfony/asset-mapper ###
