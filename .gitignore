@@ -20,3 +20,5 @@ templates/main/homepage.html.twig~
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+src/Repository/StarshipRepository.php~
